@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(129, 129, 228);
+    font-family: sans-serif;
+    font-size: 1em;
+    color: rgb(3, 21, 21);
+}
+
+#campos{
+    margin-left: 34%;
+    margin-top: 19%;
+    justify-content: center;
+}
+
+.botoes{
+    margin-left: 34%;
+
+}
+
+#botao1{
+    margin-left: 1em;
+    border-radius: 5px;
+}
+
+#botao2{
+    margin-left: 1em;
+    border-radius: 5px;
+}
+
+#botao3{
+    margin-left: 1em;
+    border-radius: 5px;
+}
+
+#botao4{
+    margin-left: 1em;
+    border-radius: 5px;
+}
+
+.resultado{
+    margin-left: 34%;
+    justify-content: center;
+}
